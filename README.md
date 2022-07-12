@@ -15,7 +15,7 @@ The main focus of our investigation based on borrower rate, state, income range,
 - Python 3.10.5
 
 ## Setup
-Before proceeding this project you need to download "Prosper Loan Data" from this url "https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv" and then you need to download the "Prosper Loan Data-Variable Definitions" provided in our project dataset. 
+Before proceeding this project you need to download "Prosper Loan Data" from this url "https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv" file and then you need to download the "Prosper Loan Data-Variable Definitions.csv" file provided in our project dataset. 
 
 ## Usage
 If you want a project template based on univariate, bivariate and multivariate plots this project would be very remarkable for you. 
